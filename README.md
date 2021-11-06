@@ -2,9 +2,10 @@
 ## [linked list](https://leetcode.com/tag/linked-list/)
 #### approach:-
 **solving 2 easy challenges/2 meduim challenges and all hard challenges**
-- [ ] 2 easy
+- [X] 2 easy
 - [ ] 2 meduim
 - [ ] hards
+
 -[ ] whiteboards
 ##### Easy:-
 ***[is Palindrome](https://leetcode.com/problems/palindrome-linked-list/)***
@@ -21,3 +22,5 @@
 ***is Palindrome***
 ![](linkedlist1.jpg)
 
+***Remove from Linked List***
+![](linkedlist2.jpg)
