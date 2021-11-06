@@ -3,14 +3,16 @@
 #### approach:-
 **solving 2 easy challenges/2 meduim challenges and all hard challenges**
 - [X] 2 easy
-- [ ] 2 meduim
+- [X] 2 meduim
 - [ ] hards
 
 -[ ] whiteboards
 ##### Easy:-
 ***[is Palindrome](https://leetcode.com/problems/palindrome-linked-list/)***
 ***[Remove from linkedlist](https://leetcode.com/problems/remove-linked-list-elements/)***
-
+#### Meduim:-
+***[Rotate Right](https://leetcode.com/problems/rotate-list/)***
+***[Twitter Design](https://leetcode.com/problems/design-twitter/)***
 
 ## [Stacks](https://leetcode.com/tag/stack/)
 #### approach:-
@@ -26,3 +28,10 @@
 
 ***Remove from Linked List***
 ![](linkedlist2.jpg)
+
+***Rotate Right***
+![](linkedlist3.jpg)
+
+***Twitter Design***
+![](linkedlist4.jpg)
+
