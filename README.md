@@ -9,6 +9,8 @@
 -[ ] whiteboards
 ##### Easy:-
 ***[is Palindrome](https://leetcode.com/problems/palindrome-linked-list/)***
+***[Remove from linkedlist](https://leetcode.com/problems/remove-linked-list-elements/)***
+
 
 ## [Stacks](https://leetcode.com/tag/stack/)
 #### approach:-
