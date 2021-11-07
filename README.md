@@ -9,9 +9,11 @@
 -[ ] whiteboards
 ##### Easy:-
 ***[is Palindrome](https://leetcode.com/problems/palindrome-linked-list/)***
+
 ***[Remove from linkedlist](https://leetcode.com/problems/remove-linked-list-elements/)***
 #### Meduim:-
 ***[Rotate Right](https://leetcode.com/problems/rotate-list/)***
+
 ***[Twitter Design](https://leetcode.com/problems/design-twitter/)***
 
 ## [Stacks](https://leetcode.com/tag/stack/)
