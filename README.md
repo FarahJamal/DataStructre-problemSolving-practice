@@ -16,6 +16,10 @@
 
 ***[Twitter Design](https://leetcode.com/problems/design-twitter/)***
 
+#### Hard:-
+***[Design SkipList](https://leetcode.com/problems/design-skiplist/)***
+***[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)***
+
 ## [Stacks](https://leetcode.com/tag/stack/)
 #### approach:-
 **solving 2 easy challenges/2 meduim challenges and all hard challenges**
@@ -36,4 +40,13 @@
 
 ***Twitter Design***
 ![](linkedlist4.jpg)
+
+***Design SkipList***
+####### No Whiteboard process done
+![](t2.png)
+![](t.png)
+
+***Reverse Nodes in K-Group***
+![](t3.jpg)
+
 
